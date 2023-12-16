@@ -14,7 +14,10 @@
     height: 700px;
     width: 1200px;
     margin: 15px;
-    background-color: deepskyblue;
+    background: url('/imgs/flappy_bird_backdrop_by_lenaxux_dg34rsu-375w-2x.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
     overflow: hidden;
 }
 
